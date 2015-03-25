@@ -1,0 +1,9 @@
+#box {
+	width: 200px;
+	height: 200px;
+	background-color:blue;
+}
+#header{
+	text-align: center;
+	border-bottom: 1px solid silver;
+}

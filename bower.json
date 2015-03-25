@@ -1,0 +1,22 @@
+{
+  "name": "Bower Usage Demo",
+  "version": "0.0.0",
+  "authors": [
+    "Dime Mitevski <dimemitevski@yahoo.com>"
+  ],
+  "description": "Simple Website",
+  "main": "app.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "https://github.com/DMitevski/jquery.fadeoutDivs",
+    "jquery.fadeoutDiv": "DMitevski/jquery.fadeoutDivs",
+    "hover": "filipco56/hover"
+  }
+}
